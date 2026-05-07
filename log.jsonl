@@ -2,3 +2,4 @@
 {"t":"2026-05-07T17:45:41.262991100Z","ev":"issue","key_hash":"sha256:43e5beff8798136401e21fb59f0f142a09fd899525dffdb238c9009e3a8140fb","hwid_hash":null,"country":null,"reason":null,"by":"admin","from":null,"to":null}
 {"t":"2026-05-07T17:49:01.214336Z","ev":"issue","key_hash":"sha256:efe851a7d10e435a16822be25d122751ed9e97022819eb0eb89086570414a8bc","hwid_hash":null,"country":null,"reason":null,"by":"admin","from":null,"to":null}
 {"key":"D980-6169-F8A0-E624","hwid":"e1eac4cb5f7f5c3ed07f1ee8f87240c7676dec58895c2b024354d4d20bc20e8b","action":"activate","ts":"2026-05-07T17:55:24.004124800Z","app_version":"0.0.1","country":"GE"}
+{"t":"2026-05-07T23:37:26.772775100Z","ev":"issue","key_hash":"sha256:ef7db14de712a29a8729165a62fb4bfb9d5bda76fab3f0ca712dc6c2fba9f3ff","hwid_hash":null,"country":null,"reason":null,"by":"admin","from":null,"to":null}
